@@ -27,7 +27,7 @@ class LabMeetingEmailSender:
         email_text += "<會議簡報> https://reurl.cc/DdgY9m"
         return email_text
 
-    def send_lab_seminar_reminder(self):
+    def send_email(self):
         chinese = {1: '一', 2: '二', 3: '三', 4: '四', 5: '五', 6: '六', 7: '日'}
         no_network = 0
 
