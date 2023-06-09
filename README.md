@@ -18,7 +18,7 @@
 
 ## 更改寄信資訊
 - 直接修改 `config.json` 即可（下次就會直接套用新設定）
-- 如果修改的是  `send_weekday`，則記得輸入 `sh kill.sh && cd && sh /home/email/lab_meeting_notifier/run.sh` 重跑程式
+- 如果修改的是  `send_weekday`，則要輸入 `sh kill.sh && cd && sh /home/email/lab_meeting_notifier/run.sh` 重跑程式
 
 ## 關閉
 - 輸入 `sh kill.sh`
