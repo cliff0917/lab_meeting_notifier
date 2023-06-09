@@ -1,0 +1,7 @@
+{
+    "send_weekday": 1,
+    "send_time" : "22:00",
+    "meeting_time" : 12,
+    "classroom" : "65105",
+    "stop" : false
+}
