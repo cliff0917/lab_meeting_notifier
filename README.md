@@ -4,7 +4,7 @@
 - 應包含 `老師和助理.csv`、`專題生.csv`、`碩1.csv`、`碩2.csv`、`博士.csv`（放在 `send_email/` 中）
 - 每個 `.csv` 至少需要包含 `name`, `email` 欄位（`id` 欄位為學號，沒有也沒差）
 
-  ![image](https://github.com/cliff0917/send_email/assets/79709549/84941a30-e75d-4ecd-af5c-f48e8b3eecad)
+  ![image](https://github.com/cliff0917/send_email/assets/79709549/e0e58d2a-5ff0-4bda-804f-fddb6e106f96)
 
 ## 安裝環境
 - 輸入 `pip install -r requirements.txt`
